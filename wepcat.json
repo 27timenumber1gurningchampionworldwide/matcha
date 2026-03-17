@@ -1,0 +1,55 @@
+{
+    "Primary": [
+        "Assault Rifle",
+        "Burst Rifle",
+        "Energy Rifle",
+        "Sniper",
+        "Shotgun",
+        "Minigun",
+        "Flamethrower",
+        "RPG",
+        "Grenade Launcher",
+        "Paintball Gun",
+        "Bow",
+        "Crossbow",
+        "Distortion",
+        "Permafrost"
+    ],
+    "Secondary": [
+        "Handgun",
+        "Revolver",
+        "Uzi",
+        "Energy Pistols",
+        "Shorty",
+        "Flare Gun",
+        "Exogun",
+        "Slingshot",
+        "Spray",
+        "Warper"
+    ],
+    "Melee": [
+        "Fists",
+        "Knife",
+        "Katana",
+        "Scythe",
+        "Chainsaw",
+        "Battle Axe",
+        "Maul",
+        "Trowel",
+        "Daggers"
+    ],
+    "Utility": [
+        "Medkit",
+        "Subspace Tripmine",
+        "Jump Pad",
+        "Riot Shield",
+        "Grenade",
+        "Flashbang",
+        "Molotov",
+        "Smoke Grenade",
+        "Satchel",
+        "Warpstone",
+        "Freeze Ray",
+        "War Horn"
+    ]
+}
